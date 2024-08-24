@@ -1,1 +1,5 @@
 # Gaming-Room-Design
+
+The Gaming Room is a client who developed a game called "Draw It or Lose It." They wanted to expand their game into a mobile app that could be played on both Android and iOS devices. The app needed to let players draw and guess images in a multiplayer setting, handle user logins, provide real-time updates during games, and work smoothly on both platforms.
+
+While creating the design document for this project, I made sure to clearly explain the technical requirements and how different features would work. This made it easier for developers to follow along and build the app. Breaking down the app into smaller parts, like user authentication and game logic, helped me understand the flow of the app and made the coding easier. If I could improve one thing, I would add better security for user logins, such as two-factor authentication. It's important to always think about what the users need, as that helps create a better experience for them. Going forward, I would continue breaking down the software into smaller parts and get feedback from users to make sure the design meets their expectations.
